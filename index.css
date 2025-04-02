@@ -1,0 +1,319 @@
+.layer-1-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.layer-12-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.layer-11-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.layer-1-parent {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+}
+.turn-your-small {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 95px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 3;
+}
+.change-banner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 78px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.layer-2-icon {
+  height: 385.1px;
+  width: 471.6px;
+  position: relative;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 3;
+}
+.layer-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 22px 0px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.when-you-opt {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 70px;
+  font-weight: 800;
+  font-family: inherit;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.opt-in {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 63.9px;
+  max-width: 100%;
+}
+.green-programme {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px 1px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 62px;
+}
+.layer-5-icon {
+  height: 310.2px;
+  width: 508.8px;
+  position: absolute;
+  margin: 0 !important;
+  top: -217.6px;
+  right: -181.8px;
+  z-index: 3;
+}
+.every-010-you {
+  flex: 1;
+  position: relative;
+  line-height: 55px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.contribution-description {
+  width: 522px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.layer-3-icon {
+  position: absolute;
+  top: 152.5px;
+  left: 206.5px;
+  width: 52.6px;
+  height: 42.1px;
+  z-index: 3;
+}
+.layer-4-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 246.4px;
+  height: 176px;
+  z-index: 4;
+}
+.project-icons {
+  height: 194.6px;
+  width: 259.1px;
+  position: relative;
+}
+.projects {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 20px 0px 94px;
+}
+.vector-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+.vector-icon1 {
+  position: absolute;
+  top: 0.7px;
+  left: 4px;
+  width: 0px;
+  height: 0px;
+  z-index: 3;
+}
+.nested-two-layers {
+  width: 4px;
+  height: 0.7px;
+  position: relative;
+}
+.nested-two-layers-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23.4px 0px 0px;
+}
+.vector-icon2 {
+  height: 0px;
+  width: 1.2px;
+  position: relative;
+  z-index: 3;
+}
+.group-icon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 4;
+}
+.frame-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0.8px 1px 1.8px;
+  position: relative;
+  gap: 20px;
+}
+.minutes {
+  width: 297.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24.9px 0px 0px;
+  box-sizing: border-box;
+}
+.got-2-minutes {
+  position: relative;
+  line-height: 55px;
+  font-weight: 500;
+  z-index: 5;
+  margin-left: -294.7px;
+}
+.swipe {
+  width: 297.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.time {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 20px 0px 338px;
+}
+.swipe-to-check {
+  width: 409px;
+  position: relative;
+  line-height: 49px;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 3;
+}
+.swipe-call-to-action {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.every-ride {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7.5px;
+  max-width: 100%;
+}
+.contributions {
+  width: 840px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 1px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 40px;
+}
+.without-group {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 110px 109px 144px 110px;
+  box-sizing: border-box;
+  gap: 230px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 85px;
+  color: #005339;
+  font-family: "Grab Community Solid EN";
+}
